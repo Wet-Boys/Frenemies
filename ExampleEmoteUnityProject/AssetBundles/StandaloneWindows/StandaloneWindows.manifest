@@ -1,0 +1,7 @@
+ManifestFileVersion: 0
+CRC: 2327180830
+AssetBundleManifest:
+  AssetBundleInfos:
+    Info_0:
+      Name: example_emotes
+      Dependencies: {}
